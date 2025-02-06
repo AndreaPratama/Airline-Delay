@@ -60,7 +60,7 @@ Here are some DAXs used for flight delay analysis:
 
 ![Data Model](dax_measure/rate_dax.svg)
 
-#### MoM Flight Arrival, Cenceled Flight, and Diverted FLight (The dax in the example is Flight Arrival)
+#### MoM Flight Arrival, Cenceled Flight, and Diverted FLight (The dax in the example is Flight Arrival) & Conditional Formating color to Clarify the Metric
 
 ![Data Model](dax_measure/mom_dax.svg)
 
@@ -86,7 +86,7 @@ Here are some DAXs used for flight delay analysis:
 
 ## 7. Analysis & Visualization
 Key insights were extracted using Power BI visualizations and DAX measures, including:
-- **KPIs:** Delay Rate, Average Delay Per Flight, On-Time Performance
+- **KPIs:** Delay Rate, Average Delay Per Flight, On-Time Performance, and Flight Category
 - **Bar Charts & Line Charts** for trend analysis
 - **Geographical Analysis** using airport locations
 
