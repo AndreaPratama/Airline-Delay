@@ -49,6 +49,20 @@ A relational data model was designed in Power BI with the following structure:
 **Data Model Screenshot:**
 ![Data Model](data_modeling.png)
 
+### Create Parameters
+
+#### Flight
+
+| Parameter | Result |
+|----------|----------|
+| ![](parameter/parameter_flight.png) | ![](parameter/result_parameter_flight.png) |
+
+#### Delays
+
+| Parameter | Result |
+|----------|----------|
+| ![](parameter/parameter_delay.png) | ![](parameter/result_parameter_delay.png) |
+
 ### DAX Measures  
 Here are some DAXs used for flight delay analysis:
 
@@ -90,18 +104,70 @@ Key insights were extracted using Power BI visualizations and DAX measures, incl
 - **Bar Charts & Line Charts** for trend analysis
 - **Geographical Analysis** using airport locations
 
-## 8. Conclusion
-The analysis revealed significant insights:
-- **Busiest Months:** January, April, May, October, November, December
-- **Months with Highest Delay Rates:** May and July
-- **Primary Delay Causes:** Late Aircraft, Carrier Delays, and Weather
-- **Most Affected Airports:** DFW, ORD, MSP (due to weather delays)
-- **Best On-Time Performers:** ExpressJet Airlines LLC and Hawaiian Airlines
+In this Dashboard there are 3 pages :
 
-**Recommendations:**
-- Airlines should optimize schedules during peak months.
-- Predictive analytics can help reduce delays.
-- Improved coordination between airlines and airports can mitigate congestion.
+- Overview
+- Flight
+- Delay 
+
+You can interact with report here [Onyx Data January 2025 Challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025)
+
+![](dashboard.png) 
+
+## **Insights**
+
+### **1. Busiest Months and Airports for Flights**
+- January, April, May, October, November, and December have the highest flight volumes.
+- The busiest airports are ATL, DFW, and ORD.
+
+### **2. Months with the Highest Delay Rates**
+- May and July experience the highest delay rates, with an average delay rate of 21.5%.
+
+### **3. Variation in Delay Patterns Across Airlines**
+- ExpressJet Airlines LLC and Hawaiian Airlines have lower delay rates compared to other airlines.
+
+### **4. Primary Causes of Delays**
+- The main cause of flight delays is
+  - Late Aircraft (57.39K affected flights)
+  - Carrier-related delays (53.71K flights)
+  - Weather (4.82K flights)
+
+### **5. Airports Most Affected by Weather-Related Delays**
+- DFW, ORD, and MSP experience the most significant weather-related delays, adding 10-12 minutes per flight on average.
+
+### **6. Geographic Patterns in Delay Occurrences**
+- Coastal airports face significantly more delays than inland airports, with a ratio of 90% to 10%.
+
+### **7. Regions Most Affected by Weather-Related Delays**
+- North America is the most affected region, with 4.1K flights delayed due to weather conditions.
+
+### **8. Percentage of Flights Experiencing Delays Over 15 Minutes**
+- The average delay per flight is 10.75 minutes, with a substantial number exceeding 15 minutes.
+
+## **Conclusion**
+
+- High-traffic months correlate with increased delays, primarily due to air traffic congestion and operational bottlenecks.
+- Late aircraft remains the leading cause of delays, followed by carrier-related issues and weather disruptions.
+- Coastal airports tend to suffer more delays due to operational complexities and weather conditions.
+- Airlines with efficient operational strategies, such as ExpressJet and Hawaiian Airlines, experience fewer delays.
+- Effective data-driven strategies can enhance flight punctuality and reduce overall delays across the industry.
+
+## **Recommendations**
+
+### **For Airlines:**
+- Implement predictive analytics to anticipate and mitigate delays by optimizing flight schedules.
+- Adopt operational strategies from low-delay airlines, such as better fleet rotation and optimized scheduling.
+- Improve turnaround times to minimize cascading delays from late aircraft.
+
+### **For Airports:**
+- Expand infrastructure and optimize scheduling in high-traffic months to alleviate congestion.
+- Enhance weather prediction and monitoring systems to proactively manage weather-related disruptions.
+- Improve ground operations to ensure smoother aircraft movement and reduce delays.
+
+### **For Aviation Authorities:**
+- Increase coordination between airlines, airports, and air traffic control to enhance traffic management.
+- Develop policies to encourage best practices in airline scheduling and airport management.
+- Promote investments in technological advancements to enhance efficiency and reduce delays.
 
 ---
 ### Additional Notes
