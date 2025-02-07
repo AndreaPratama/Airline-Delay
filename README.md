@@ -112,7 +112,7 @@ In this Dashboard there are 3 pages :
 
 You can interact with report here [FP 20 Analytics Challenge](-)
 
-![](dashboard1.png) 
+![](dashboard2.png) 
 
 ## **Insights**
 
