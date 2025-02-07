@@ -110,9 +110,9 @@ In this Dashboard there are 3 pages :
 - Flight
 - Delay 
 
-You can interact with report here [Onyx Data January 2025 Challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025)
+You can interact with report here [FP 20 Analytics Challenge](-)
 
-![](dashboard.png) 
+![](dashboard1.png) 
 
 ## **Insights**
 
@@ -170,6 +170,8 @@ You can interact with report here [Onyx Data January 2025 Challenge](https://zoo
 - Promote investments in technological advancements to enhance efficiency and reduce delays.
 
 ---
-### Additional Notes
-- Add images for dashboards and DAX measures as needed.
-- Update data model screenshot link before publishing.
+### Repository Contents  
+- **Power BI Dashboard File**: The main [PBIX File](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025) containing the analysis and visualizations. 
+- **Data Sources**: [Raw Dataset](Airline_Delays_English_C23.xlsx) used in the project.  
+- **Screenshots/Reports**: Exported visualizations for sharing insights.  
+- **README.md**: Project documentation (this file).
