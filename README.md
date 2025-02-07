@@ -123,25 +123,22 @@ You can interact with report here [FP 20 Analytics Challenge](-)
 ### **2. Months with the Highest Delay Rates**
 - May and July experience the highest delay rates, with an average delay rate of 21.5%.
 
-### **3. Variation in Delay Patterns Across Airlines**
-- ExpressJet Airlines LLC and Hawaiian Airlines have lower delay rates compared to other airlines.
-
-### **4. Primary Causes of Delays**
+### **3. Primary Causes of Delays**
 - The main cause of flight delays is
   - Late Aircraft (57.39K affected flights)
   - Carrier-related delays (53.71K flights)
   - Weather (4.82K flights)
 
-### **5. Airports Most Affected by Weather-Related Delays**
+### **4. Airports Most Affected by Weather-Related Delays**
 - DFW, ORD, and MSP experience the most significant weather-related delays, adding 10-12 minutes per flight on average.
 
-### **6. Geographic Patterns in Delay Occurrences**
+### **5. Geographic Patterns in Delay Occurrences**
 - Coastal airports face significantly more delays than inland airports, with a ratio of 90% to 10%.
 
-### **7. Regions Most Affected by Weather-Related Delays**
+### **6. Regions Most Affected by Weather-Related Delays**
 - North America is the most affected region, with 4.1K flights delayed due to weather conditions.
 
-### **8. Percentage of Flights Experiencing Delays Over 15 Minutes**
+### **7. Percentage of Flights Experiencing Delays Over 15 Minutes**
 - The average delay per flight is 10.75 minutes, with a substantial number exceeding 15 minutes.
 
 ## **Conclusion**
