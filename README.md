@@ -114,57 +114,73 @@ You can interact with report here [FP 20 Analytics Challenge](-)
 
 ![](dashboard2.png) 
 
-## **Insights**
+### Insights
 
-### **1. Busiest Months and Airports for Flights**
-- January, April, May, October, November, and December have the highest flight volumes.
-- The busiest airports are ATL (Hartsfield-Jackson Atlanta International Airport), DFW (Dallas/Fort Worth International Airport), and ORD (Chicago O'Hare International Airport).
+- **Flight Volume Trends:**
+  - **2023 had higher flight volumes**, averaging **40K-60K flights per month**, with a peak in **January 2023 (68K+ flights)**.
+  - **2024 showed a decline in flight volume (20K-40K flights/month)**, with a slight increase in December.
 
-### **2. Months with the Highest Delay Rates**
-- May and July experience the highest delay rates, with an average delay rate of 21.5%.
+- **Busiest Months & Airports:**
+  - Peak months: **January, April, May, October, November, and December**.
+  - Busiest airports: **ATL, DFW, ORD**.
 
-### **3. Primary Causes of Delays**
-- The main cause of flight delays is
-  - Late Aircraft (57.39K affected flights)
-  - Carrier-related delays (53.71K flights)
-  - Weather (4.82K flights)
+- **Months with the Highest Delay Rates:**
+  - **May and July had the highest delay rates (21.5%)** especially in 2023.
 
-### **4. Airports Most Affected by Weather-Related Delays**
-- DFW (Dallas/Fort Worth International Airport), ORD (Chicago O'Hare International Airport), and MSP (Marcos Paz Airfield) experience the most significant weather-related delays, adding 10-12 minutes per flight on average.
+- **Primary Causes of Delays:**
+  - **Late aircraft (57.39K affected flights)**.
+  - **Carrier-related delays (53.71K flights)**.
+  - **Weather-related delays (4.82K flights)**.
 
-### **5. Geographic Patterns in Delay Occurrences**
-- Coastal airports face significantly more delays than inland airports, with a ratio of 90% to 10%.
+- **Weather Impact & Geographic Disparities:**
+  - **DFW, ORD, and MSP airports experience the most weather-related delays**, adding **10-12 minutes per flight**.
+  - **Coastal airports face significantly more delays (90%) compared to inland airports (10%)**.
+  - **North America is the most affected region, with 4.1K flights delayed due to weather**.
 
-### **6. Regions Most Affected by Weather-Related Delays**
-- North America is the most affected region, with 4.1K flights delayed due to weather conditions.
+- **Delay Patterns vs. Flight Volume:**
+  - **Lower flight volumes in 2024 correlated with improved delay rates (stabilizing at 10-11%)**.
 
-### **7. Percentage of Flights Experiencing Delays Over 15 Minutes**
-- The average delay per flight is 10.75 minutes, with a substantial number exceeding 15 minutes.
+---
 
-## **Conclusion**
+### Conclusion
 
-- High-traffic months correlate with increased delays, primarily due to air traffic congestion and operational bottlenecks.
-- Late aircraft remains the leading cause of delays, followed by carrier-related issues and weather disruptions.
-- Coastal airports tend to suffer more delays due to operational complexities and weather conditions.
-- Airlines with efficient operational strategies, such as ExpressJet and Hawaiian Airlines, experience fewer delays.
-- Effective data-driven strategies can enhance flight punctuality and reduce overall delays across the industry.
+Flight delays remain a **major operational challenge**, influenced by **seasonal traffic, airline efficiency, and external factors like weather**. Key takeaways:
 
-## **Recommendations**
+- **Peak travel months lead to higher congestion and increased delays**.
+- **Carrier-related and late aircraft delays are the most significant contributors** to flight disruptions.
+- **Weather-related delays predominantly impact major hubs, particularly coastal airports**.
+- **When flight volume decreases, on-time performance improves**, highlighting the importance of optimized scheduling.
 
-### **For Airlines:**
-- Implement predictive analytics to anticipate and mitigate delays by optimizing flight schedules.
-- Adopt operational strategies from low-delay airlines, such as better fleet rotation and optimized scheduling.
-- Improve turnaround times to minimize cascading delays from late aircraft.
+Reducing delays requires **better scheduling, predictive analytics, and operational efficiency improvements**.
 
-### **For Airports:**
-- Expand infrastructure and optimize scheduling in high-traffic months to alleviate congestion.
-- Enhance weather prediction and monitoring systems to proactively manage weather-related disruptions.
-- Improve ground operations to ensure smoother aircraft movement and reduce delays.
+---
 
-### **For Aviation Authorities:**
-- Increase coordination between airlines, airports, and air traffic control to enhance traffic management.
-- Develop policies to encourage best practices in airline scheduling and airport management.
-- Promote investments in technological advancements to enhance efficiency and reduce delays.
+### Recommendations
+
+- **📅 Peak Season Operations:**
+  - Increase workforce, improve ground handling, and optimize aircraft turnaround times.
+  - Use **slot management systems** to prevent excessive congestion.
+
+- **⏳ Reducing Delay Rates in May & July:**
+  - Implement **predictive analytics** for proactive scheduling.
+  - Introduce **buffer time in flight schedules** to minimize cascading delays.
+
+- **⚠ Minimizing Carrier & Late Aircraft Delays:**
+  - Improve **fleet utilization and maintenance scheduling**.
+  - Use **real-time tracking and AI-driven operational decision-making**.
+
+- **🌦 Mitigating Weather-Related Delays:**
+  - Invest in **advanced weather forecasting technology**.
+  - Establish **backup aircraft and alternative routing strategies**.
+
+- **🌍 Addressing Geographic Delay Disparities:**
+  - Expand infrastructure and enhance **air traffic control systems** at coastal airports.
+  - Adjust schedules to avoid peak congestion times.
+
+- **✈ Learning from Airlines with Better On-Time Performance:**
+  - Adopt best practices like **efficient fleet rotation, strategic scheduling, and improved passenger communication**.
+
+By implementing these strategies, airlines and airports can **reduce delays, enhance passenger experience, and improve operational efficiency**. 🚀
 
 ---
 ### Repository Contents  
