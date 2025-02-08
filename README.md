@@ -122,7 +122,7 @@ You can interact with report here [FP 20 Analytics Challenge](-)
 
 - **Busiest Months & Airports:**
   - Peak months: **January, April, May, October, November, and December**.
-  - Busiest airports: **ATL, DFW, ORD**.
+  - Busiest airports: **ATL (Hartsfield-Jackson), DFW (Dallas/Fort Worth), and ORD (Chicago O'Hare)**.
 
 - **Months with the Highest Delay Rates:**
   - **May and July had the highest delay rates (21.5%)** especially in 2023.
@@ -133,7 +133,7 @@ You can interact with report here [FP 20 Analytics Challenge](-)
   - **Weather-related delays (4.82K flights)**.
 
 - **Weather Impact & Geographic Disparities:**
-  - **DFW, ORD, and MSP airports experience the most weather-related delays**, adding **10-12 minutes per flight**.
+  - **DFW (Dallas/Fort Worth), ORD (Chicago O'Hare), and MSP (Marcos Paz Airfield) airports experience the most weather-related delays**, adding **10-12 minutes per flight**.
   - **Coastal airports face significantly more delays (90%) compared to inland airports (10%)**.
   - **North America is the most affected region, with 4.1K flights delayed due to weather**.
 
