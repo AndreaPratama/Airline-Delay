@@ -30,7 +30,7 @@ The dataset used in this project consists of airline delay data, including:
 
 The Dataset Provide by **FP20 Analytics** 
 
-More Information About This Challenge: [FP20 Analytics challenge 23]([https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/onyx-data-january-2025](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-january-2025))
+More Information About This Challenge: [FP20 Analytics challenge 23](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-january-2025)
 
 
 ## 5. Data Transformation
