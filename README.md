@@ -41,7 +41,7 @@ Data preprocessing was performed using Power Query, including:
 - Adding a Carrier table with `Carrier Name` and `Carrier SVG Image`
 
 ## 6. Modeling
-A relational data model was designed in Power BI with the following structure:
+A `Star Schema` relational data model was designed in Power BI with the following structure:
 - **Fact Table:** `Airline Delays`
 - **Dimension Tables:** `Calendar`, `Airport`, `Carrier`
 - Relationships established between the fact and dimension tables
