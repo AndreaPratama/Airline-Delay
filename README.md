@@ -110,7 +110,7 @@ In this Dashboard there are 3 pages :
 - Flight
 - Delay 
 
-You can interact with report here [FP 20 Analytics Challenge](https://app.powerbi.com/view?r=eyJrIjoiZmQ0ODFkMDUtMDE3YS00NjIwLWI3ODUtNzYyYzRjZjUzMmQ5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can interact with report here [FP 20 Analytics Challenge](https://app.powerbi.com/view?r=eyJrIjoiOTI4YTY0YzQtMzc5OC00NzIzLTk2MTgtM2YwMmFlOTUzMTg5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 ![](dashboard2.png) 
 
