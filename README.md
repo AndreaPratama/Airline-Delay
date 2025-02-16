@@ -110,7 +110,7 @@ In this Dashboard there are 3 pages :
 - Flight
 - Delay 
 
-You can interact with report here [FP 20 Analytics Challenge](https://app.powerbi.com/view?r=eyJrIjoiOTI4YTY0YzQtMzc5OC00NzIzLTk2MTgtM2YwMmFlOTUzMTg5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+You can interact with report here [FP 20 Analytics Challenge](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/a28f2a02988cf596c653c97057fe1162?challenge=fp20-analytics-january-2025)
 
 ![](dashboard2.png) 
 
@@ -184,7 +184,7 @@ By implementing these strategies, airlines and airports can **reduce delays, enh
 
 ---
 ### Repository Contents  
-- **Power BI Dashboard File**: The main [PBIX File](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/7aca2655f8c02f248638caa5fce9dc9e?challenge=onyx-data-january-2025) containing the analysis and visualizations. 
+- **Power BI Dashboard File**: The main [PBIX File](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/submission/a28f2a02988cf596c653c97057fe1162?challenge=fp20-analytics-january-2025) containing the analysis and visualizations. 
 - **Data Sources**: [Raw Dataset](Airline_Delays_English_C23.xlsx) used in the project.  
 - **Screenshots/Reports**: Exported visualizations for sharing insights.  
 - **README.md**: Project documentation (this file).
